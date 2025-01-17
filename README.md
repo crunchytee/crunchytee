@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @crunchytee
 - Student at CSUS
+- Interests: Web Development, Software Development
